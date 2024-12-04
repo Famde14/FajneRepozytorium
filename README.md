@@ -1,1 +1,2 @@
 # FajneRepozytorium
+coś więcej
